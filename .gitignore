@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Secrets / local config
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
